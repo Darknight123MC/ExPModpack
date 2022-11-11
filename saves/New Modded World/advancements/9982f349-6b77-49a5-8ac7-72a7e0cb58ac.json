@@ -1,0 +1,98 @@
+{
+  "arcanearchives:root": {
+    "criteria": {
+      "auto": "2022-11-06 20:19:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-06 20:27:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-11-06 20:32:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-11-06 20:23:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-11-06 20:54:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-11-06 20:54:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-11-06 20:32:30 +0900"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/root": {
+    "criteria": {
+      "crafting_table": "2022-11-06 20:23:34 +0900"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/holographic": {
+    "criteria": {
+      "warp": "2022-11-06 20:24:50 +0900"
+    },
+    "done": true
+  },
+  "naturesaura:root": {
+    "criteria": {
+      "book": "2022-11-06 20:27:27 +0900"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2022-11-06 20:19:19 +0900"
+    },
+    "done": true
+  },
+  "arcanearchives:guidebook": {
+    "criteria": {
+      "book": "2022-11-06 20:25:20 +0900"
+    },
+    "done": true
+  },
+  "naturesaura:get_book": {
+    "criteria": {
+      "book": "2022-11-06 20:27:27 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2022-11-06 20:24:44 +0900"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-11-06 20:19:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-11-06 20:19:19 +0900"
+    },
+    "done": false
+  }
+}
